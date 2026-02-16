@@ -19,15 +19,6 @@ A simple and practical task management application written in C++. With this pro
 - `Todo.h` and `Todo.cpp` - Derived class from Task
 - `TodoList.h` and `TodoList.cpp` - Task list management class
 
-##  How to Run
-
-Follow these steps to run the project:
-
-1. Download the `project_programing(1).zip` file
-2. Extract the file
-3. Open the project files in your preferred development environment
-4. Run the codes
-
 ##  Usage Guide
 After running, the following menu is displayed:
 1. Add new task
@@ -45,6 +36,7 @@ After running, the following menu is displayed:
 
 ## 👩‍💻 Developer
 [fatemehkhosrravi](https://github.com/fatemehkhosrravi)
+[sarvprans](https://github.com/sarvprans)
 
 ## 17 Date
 February 2026
